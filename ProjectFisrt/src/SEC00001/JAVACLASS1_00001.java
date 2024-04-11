@@ -1,12 +1,13 @@
 package SEC00001;
-//자바계산기
-
-public class JAVACLASS1_00001 {
-
+import SEC00001.JAVACLASS1_00002;
+public class JAVACLASS1_00001 { 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		System.out.println("hello java!");
+		JAVACLASS1_00002 hs = new JAVACLASS1_00002();
+		 
+		
+		System.out.println(JAVACLASS1_00002.hands);
+		System.out.println(JAVACLASS1_00002.hands);
 	}
+}
 
 	
-}
