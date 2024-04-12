@@ -7,6 +7,7 @@ public class JAVACLASS1_00001 {
 		
 		System.out.println(JAVACLASS1_00002.hands);
 		System.out.println(JAVACLASS1_00002.hands);
+		System.out.println("hello java");
 	}
 }
 
